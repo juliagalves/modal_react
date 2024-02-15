@@ -1,0 +1,25 @@
+
+
+.teste{
+  height: 640px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #F5F7DC;
+}
+
+.teste button{
+  padding: 15px;
+  width: 20%;
+  margin-top: 10px;
+  background-color: #0F0326;
+  color: #F5F7DC;
+  border: 1px solid #0F0326;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.teste button:hover{
+  background-color: black;
+}
